@@ -39,7 +39,7 @@ The project consists of the following main files:
     - Create a `<div>` with the class `banner`.
     - Inside it, create a `<div>` with the class `banner-content`.
     - Add a navigation panel and a list of links such as "Today's Deals", "Customer Service", etc.
-![Screenshot of the application](./amazon/s4.jpg)
+![Screenshot of the application](amazon/s4.jpg)
 5. **Hero Section**
     - Create a `<section>` with the class `hero-section`.
     - Add a background image to the hero section.
