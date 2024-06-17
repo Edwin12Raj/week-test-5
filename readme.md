@@ -19,7 +19,7 @@ The project consists of the following main files:
     
 ## Screenshot
 
-![Screenshot of the application](amazon/s1.jpg)
+![Screenshot of the application](./amazon/s1.JPG)
 
 2. **Include External Resources**
     - Link the Google Fonts stylesheet for the "Open Sans" font.
