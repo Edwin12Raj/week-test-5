@@ -25,7 +25,7 @@ The project consists of the following main files:
     - Link the Google Fonts stylesheet for the "Open Sans" font.
     - Link the Material Symbols Outlined for the icons.
     - Link the `styles.css` file for styling.
-![Screenshot of the application](amazon/s2.jpg)
+![Screenshot of the application](amazon/s2.JPG)
 
 3. **Header Section**
     - Create a `<header>` element.
