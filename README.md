@@ -34,7 +34,7 @@ The project consists of the following main files:
     - Create the address section with a link for delivery and location.
     - Add a search bar with a dropdown for categories, an input field, and a search icon.
     - Include links for signing in, returns, and the cart.
-![Screenshot of the application](amazon/s3.jpg)
+![Screenshot of the application](amazon/s3.JPG)
 4. **Banner Section**
     - Create a `<div>` with the class `banner`.
     - Inside it, create a `<div>` with the class `banner-content`.
