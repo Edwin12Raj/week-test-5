@@ -89,7 +89,7 @@ The project consists of the following main files:
     - Style the `shop-section` to be a flex container with center alignment, column direction, and padding.
     - Style the `shop-images` to be a grid with responsive columns.
     - Style individual `shop-link` items with background color, padding, and transition effects for scaling and hovering.
-![Screenshot of the application](amazon/c8.jpg)
+![Screenshot of the application](amazon/c8.JPG)
 9. **Footer Styles**
     - Style the `footer-title` with background color `#37475a` and center alignment.
     - Style the `footer-items` to be a flex container with even spacing and background color `#232f3e`.
