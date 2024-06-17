@@ -61,7 +61,7 @@ The project consists of the following main files:
     - Import the "Open Sans" font.
     - Reset margin and padding for all elements using `*` selector.
     - Set `box-sizing: border-box` and a default font family.
-![Screenshot of the application](amazon/c1.jpg)
+![Screenshot of the application](amazon/c1.JPG)
 2. **Header Styles**
     - Style the `header` to have a background color of `#0f1111` and full width.
     - Style the `navbar` to be a flex container with space between items, center alignment, and a max width of `1280px`.
