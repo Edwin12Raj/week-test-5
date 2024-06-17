@@ -81,7 +81,7 @@ The project consists of the following main files:
 6. **Banner Styles**
     - Style the `banner` with padding and background color `#222f3d`.
     - Style the `banner-content` to be a flex container with space between items.
-![Screenshot of the application](amazon/c6.jpg)
+![Screenshot of the application](amazon/c6.JPG)
 7. **Hero Section Styles**
     - Style the `hero-section` with a height of `400px` and a background image with specific positioning.
 ![Screenshot of the application](amazon/c7.jpg)
