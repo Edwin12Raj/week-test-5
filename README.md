@@ -65,7 +65,7 @@ The project consists of the following main files:
 2. **Header Styles**
     - Style the `header` to have a background color of `#0f1111` and full width.
     - Style the `navbar` to be a flex container with space between items, center alignment, and a max width of `1280px`.
-![Screenshot of the application](amazon/c2.jpg)
+![Screenshot of the application](amazon/c2.JPG)
 3. **Logo and Address**
     - Style the logo image to have a margin-top and specific width.
     - Style the address section with small font sizes and color `#ccc`.
