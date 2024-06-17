@@ -48,7 +48,7 @@ The project consists of the following main files:
     - Create a `<section>` with the class `shop-section`.
     - Inside it, create a `div` with the class `shop-images`.
     - Add individual product links with the class `shop-link`, each containing an image, title, and a "Shop now" link.
-![Screenshot of the application](amazon/s6.jpg)
+![Screenshot of the application](amazon/s6.JPG)
 7. **Footer Section**
     - Create a `<footer>` element.
     - Add a link with the class `footer-title` for "Back to top".
