@@ -73,7 +73,7 @@ The project consists of the following main files:
 4. **Search Bar**
     - Style the search bar to be a flex container with a background color of `#f3f3f3`, specific width, and border-radius.
     - Style the dropdown, input field, and search icon with appropriate sizes and colors.
-![Screenshot of the application](amazon/c4.jpg)
+![Screenshot of the application](amazon/c4.JPG)
 5. **Sign-in, Returns, and Cart**
     - Style these sections with smaller font sizes and font weights.
     - Style the cart icon to have a larger font size.
