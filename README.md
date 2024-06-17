@@ -84,7 +84,7 @@ The project consists of the following main files:
 ![Screenshot of the application](amazon/c6.JPG)
 7. **Hero Section Styles**
     - Style the `hero-section` with a height of `400px` and a background image with specific positioning.
-![Screenshot of the application](amazon/c7.jpg)
+![Screenshot of the application](amazon/c7.JPG)
 8. **Shop Section Styles**
     - Style the `shop-section` to be a flex container with center alignment, column direction, and padding.
     - Style the `shop-images` to be a grid with responsive columns.
