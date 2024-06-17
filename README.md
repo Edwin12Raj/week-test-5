@@ -69,7 +69,7 @@ The project consists of the following main files:
 3. **Logo and Address**
     - Style the logo image to have a margin-top and specific width.
     - Style the address section with small font sizes and color `#ccc`.
-![Screenshot of the application](amazon/c3.jpg)
+![Screenshot of the application](amazon/c3.JPG)
 4. **Search Bar**
     - Style the search bar to be a flex container with a background color of `#f3f3f3`, specific width, and border-radius.
     - Style the dropdown, input field, and search icon with appropriate sizes and colors.
