@@ -53,7 +53,7 @@ The project consists of the following main files:
     - Create a `<footer>` element.
     - Add a link with the class `footer-title` for "Back to top".
     - Create a `div` with the class `footer-items` and add multiple lists containing links for different sections like "Get to Know Us", "Connect with Us", etc.
-![Screenshot of the application](amazon/s7.jpg)
+![Screenshot of the application](amazon/s7.JPG)
 ### Step 2: Styling with CSS
 
 1. **Global Styles**
