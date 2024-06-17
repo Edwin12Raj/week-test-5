@@ -77,7 +77,7 @@ The project consists of the following main files:
 5. **Sign-in, Returns, and Cart**
     - Style these sections with smaller font sizes and font weights.
     - Style the cart icon to have a larger font size.
-![Screenshot of the application](amazon/c5.jpg)
+![Screenshot of the application](amazon/c5.JPG)
 6. **Banner Styles**
     - Style the `banner` with padding and background color `#222f3d`.
     - Style the `banner-content` to be a flex container with space between items.
