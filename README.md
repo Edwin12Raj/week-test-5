@@ -43,7 +43,7 @@ The project consists of the following main files:
 5. **Hero Section**
     - Create a `<section>` with the class `hero-section`.
     - Add a background image to the hero section.
-![Screenshot of the application](amazon/s5.jpg)
+![Screenshot of the application](amazon/s5.JPG)
 6. **Shop Section**
     - Create a `<section>` with the class `shop-section`.
     - Inside it, create a `div` with the class `shop-images`.
