@@ -94,6 +94,6 @@ The project consists of the following main files:
     - Style the `footer-title` with background color `#37475a` and center alignment.
     - Style the `footer-items` to be a flex container with even spacing and background color `#232f3e`.
     - Style individual footer links with appropriate font sizes and colors.
-![Screenshot of the application](./amazon/c9.jpg)
+![Screenshot of the application](amazon/c9.JPG)
 ## Conclusion
 By following these steps, you can create a basic Amazon clone with a structured layout and styling similar to the original website. This project helps in understanding the use of HTML and CSS to create a responsive and visually appealing web page.
